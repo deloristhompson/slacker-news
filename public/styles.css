@@ -1,0 +1,85 @@
+#arrow {
+  padding-right: 4px;
+}
+
+body {
+  /*background-color: #F6F6EF;*/
+  margin: 8px;
+}
+
+header {
+  background-color: #FF6600;
+  padding: 2px;
+  display: block;
+}
+
+.log{
+  float: right;
+}
+
+.main {
+  width: 85%;
+  height: 1198px;
+  display: block;
+  margin-left: 8%;
+  background-color: #F6F6EF;
+  vertical-align: middle;
+}
+
+ol.search-result-list li {
+  color: grey;
+}
+
+ol.search-result-list li a{
+  text-decoration: none;
+  color: black;
+}
+
+.page-top {
+  background-color: #FF6600;
+  font-family: Verdana, Geneva, sans-serif;
+  width: auto;
+}
+
+.results {
+  padding-top: 7pt;
+  color: black;
+}
+
+.results a{
+  color: black;
+}
+
+
+.site-title {
+  font-weight: bold;
+  display: inline-block;
+}
+
+.site-title > a{
+  text-decoration: none;
+  color: black;
+}
+
+span > a {
+  text-decoration: none;
+  color: black;
+  margin: auto;
+}
+
+.subtext a{
+  text-decoration: none;xt
+  color: black;
+}
+
+.subtext {
+  font-size: 10pt;
+}
+
+#top-photo{
+  display: inline-block;
+  border: 1px white solid;
+  width: 18px;
+  height: 18px;
+  vertical-align: text-top;
+}
